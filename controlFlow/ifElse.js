@@ -47,8 +47,8 @@ if (newName == 'Waldo') { console.log('Hello '+ newName + ", welcome back. ");
     If the age is at least 25, console.log 'You can rent a car!'
 */
 
-let age = 21 
-if (age < 21) {console.log('You can vote!');} 
-else if (age < 25) {console.log('You can drink!');} 
+let age =35; 
+if (age >= 18 && age < 21) {console.log('You can vote!');} 
+else if (age>=21 && age < 25) {console.log('You can drink!');} 
 else if (age >= 25) {console.log('You can rent a car!');}
 else if (age < 18) {console.log("Sorry, you're too young to do anything");}
