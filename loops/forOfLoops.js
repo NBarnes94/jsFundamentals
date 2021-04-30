@@ -22,3 +22,9 @@ for(soup of soupArray){
     console.log(soup);
 }
 // for of loops can use arrays[] but not {}
+
+blah = function(){
+    return localStorage;
+    lala = "hi";
+};
+console.log(blah());
