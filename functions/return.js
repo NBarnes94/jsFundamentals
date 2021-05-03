@@ -1,9 +1,9 @@
 
 // let hi = () => {
-// //       1
+//       1
 //     return 'hi'
 // };
-// //     2       3
+//     2       3
 // let newName = hi();
 
 // console.log(newName);
